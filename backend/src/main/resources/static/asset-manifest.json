@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f437ef15.css",
+    "main.js": "/static/js/main.623df37c.js",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/img.png": "/static/media/img.88010045a15dab237e2b.png",
+    "static/media/shiftLogo.jpg": "/static/media/shiftLogo.5eadc16b719373a97eb7.jpg",
+    "index.html": "/index.html",
+    "main.f437ef15.css.map": "/static/css/main.f437ef15.css.map",
+    "main.623df37c.js.map": "/static/js/main.623df37c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f437ef15.css",
+    "static/js/main.623df37c.js"
+  ]
+}

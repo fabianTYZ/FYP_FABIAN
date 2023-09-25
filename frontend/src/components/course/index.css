@@ -1,0 +1,116 @@
+/* Blog Section Container */
+.blog-section {
+    text-align: center;
+    background-color: #f7f7f7;
+    padding: 40px 0;
+}
+
+/* Container styles */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Blog card styles */
+.blog-card {
+    border: 2px solid #e2e8f0;
+    border-radius: 8px;
+    overflow: hidden;
+    margin: 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Card Image */
+.card-image {
+    width: 100%;
+    height: auto;
+}
+
+/* Card Content */
+.card-content {
+    padding: 20px;
+}
+
+/* Card Category */
+.card-category {
+    font-size: 12px;
+    font-weight: 500;
+    color: #888;
+}
+
+/* Card Title */
+.card-title {
+    font-size: 20px;
+    font-weight: 600;
+    color: #333;
+    margin: 10px 0;
+}
+
+/* Card Text */
+.card-text {
+    font-size: 16px;
+    color: #555;
+}
+
+/* Card Links */
+.card-links {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+}
+
+/* Learn More Link */
+.learn-more-link {
+    font-size: 14px;
+    font-weight: 500;
+    color: #007bff;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+}
+
+.link-icon {
+    width: 16px;
+    height: 16px;
+    margin-left: 4px;
+    stroke: currentColor;
+}
+
+/* Likes and Comments */
+.card-likes,
+.card-comments {
+    font-size: 14px;
+    font-weight: 500;
+    color: #888;
+    display: flex;
+    align-items: center;
+}
+
+.like-icon,
+.comment-icon {
+    width: 16px;
+    height: 16px;
+    margin-right: 4px;
+    stroke: currentColor;
+}
+
+.courseName {
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    padding: 2px;
+    width: 200px;
+    margin-bottom: 3px;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+.checkBox{
+    display: flex;
+    /*border: 2px solid;*/
+    border-radius: 50%;
+    padding: 5px;
+}
